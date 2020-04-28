@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 def main(msg):
-	#print a message
+	//Print a message
 	print(msg)
 
 msg = "Hello Fucking World!"
